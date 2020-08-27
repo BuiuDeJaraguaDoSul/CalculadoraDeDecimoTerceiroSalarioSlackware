@@ -1,0 +1,2 @@
+# CalculadoraDeDecimoTerceiroSalarioSlackware
+Calculadora de décimo terceiro salário para Slackware
